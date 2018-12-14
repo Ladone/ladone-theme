@@ -1,0 +1,2 @@
+# ladone-theme
+AwesomeWM theme
